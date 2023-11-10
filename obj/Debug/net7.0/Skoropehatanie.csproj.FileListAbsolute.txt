@@ -1,0 +1,14 @@
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\bin\Debug\net7.0\Skoropehatanie.exe
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\bin\Debug\net7.0\Skoropehatanie.deps.json
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\bin\Debug\net7.0\Skoropehatanie.runtimeconfig.json
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\bin\Debug\net7.0\Skoropehatanie.dll
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\bin\Debug\net7.0\Skoropehatanie.pdb
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.dll
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\refint\Skoropehatanie.dll
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.pdb
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\Skoropehatanie.genruntimeconfig.cache
+C:\Users\Алексей\source\repos\Skoropehatanie\Skoropehatanie\obj\Debug\net7.0\ref\Skoropehatanie.dll
